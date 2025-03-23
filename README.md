@@ -60,7 +60,8 @@ HTML_Basic/
 ✅ Structured Learning Path – Learn step by step  
 ✅ Practical Hands-on Examples – Improve with real practice  
 ✅ Complete HTML Coverage – From basic to advanced  
-✅ Perfect for Self-Study & Revision
+✅ Perfect for Self-Study & Revision  
+
 
 <h3>🌟 Contributions & Feedback</h3>
 This repository is a personal learning project, so contributions are not required.  
