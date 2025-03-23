@@ -57,10 +57,11 @@ HTML_Basic/
 3. Modify & Experiment with the code and observe the results in real-time! 
 
 <h3>🎯 Why This Repository?</h3>
-✅ Structured Learning Path – Learn step by step  
-✅ Practical Hands-on Examples – Improve with real practice  
-✅ Complete HTML Coverage – From basic to advanced  
+✅ Structured Learning Path – Learn step by step <br>
+✅ Practical Hands-on Examples – Improve with real practice <br>
+✅ Complete HTML Coverage – From basic to advanced <br>
 ✅ Perfect for Self-Study & Revision  
+
 
 
 <h3>🌟 Contributions & Feedback</h3>
