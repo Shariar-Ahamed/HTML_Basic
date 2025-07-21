@@ -52,7 +52,7 @@ HTML_Basic/
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/ShahriarTbc/HTML_Basic.git
+   git clone https://github.com/shariar-ahamed/HTML_Basic.git
 2. Open the files in your browser or VS Code.  
 3. Modify & Experiment with the code and observe the results in real-time! 
 
@@ -71,7 +71,7 @@ However, if you have any suggestions, feel free to open an issue on GitHub.
 
 
 <h3>**📧 Contact Me**</h3>
-If you have any questions or suggestions, feel free to reach out via [GitHub Issues](https://github.com/ShahriarTbc/HTML_Basic/issues).  
+If you have any questions or suggestions, feel free to reach out via [GitHub Issues](https://github.com/shariar-ahamed/HTML_Basic/issues).  
 
 🚀 Happy Coding!
 
